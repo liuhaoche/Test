@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/VSCodeFile/MyClinet/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\MyClinet.dir\\main.c.obj -c D:\\VSCodeFile\\MyClinet\\main.c",
+  "file": "D:/VSCodeFile/MyClinet/main.c",
+  "output": "CMakeFiles/MyClinet.dir/main.c.obj"
+}
+]

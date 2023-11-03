@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\MyClinet.dir/objects.a
+D:\MinGW\bin\ar.exe qc CMakeFiles\MyClinet.dir/objects.a @CMakeFiles\MyClinet.dir\objects1.rsp
+D:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\MyClinet.dir/objects.a -Wl,--no-whole-archive -o MyClinet.exe -Wl,--out-implib,libMyClinet.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MyClinet.dir\linkLibs.rsp
